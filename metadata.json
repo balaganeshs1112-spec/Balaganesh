@@ -1,0 +1,6 @@
+{
+  "name": "SETS - Smart Emergency Traffic System",
+  "description": "Smart Emergency Traffic Management System (SETS) prototype with live GPS tracking, AI YOLO CCTV monitoring, dynamic green signal corridors, police alerts, and hospital arrival simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
